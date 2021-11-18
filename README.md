@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Naveen-Pujar
 - 👀 I’m interested in learning topics on python, machine learning, data science
 - 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on with others who have just started learning data science as i am doing now.
+- 💞️ I’m looking to collaborate with others who have just started learning data science as i am.
 - 📫 How to reach me ...naveen.i.pujar@gmail.com
 
 <!---
